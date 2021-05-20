@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Sreeraj Melath",
+    "occupation": "Full stack Engineer",
+    "description": "I love to code.",
+    "image": "sreeraj.jpg",
+    "bio": "Hi there! I am Sreeraj! I've been coding for over 7 years now. Coding is always my passion, as a Full Stack developer I've worked on PHP, MySQL, MERN Stack etc. I also have experience developing android mobile apps using Java and recent Flutter",
+    "contactmessage": "Get in touch with me !",
+    "email": "sreeraj@infoexpo.in",
+    "phone": "+91 9048866711",
+    "address": {
+      "street": "Kanhangad",
+      "city": "Kasaragod",
+      "state": "Kerala",
+      "zip": "671315"
+    },
+    "website": "https://www.sreerajmelath.com",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://youtube.com",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://fb.me/djsreeraj",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sreerajmelath",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/sreerajmelath/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/djsreeraj",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Kannur University",
+        "degree": "Bachelor of Technology in Computer Science",
+        "graduated": "July 2017",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelancer",
+        "title": "Full Stack Developer",
+        "years": "May 2019 - Present",
+        "description": "Developing amazing app for my clients with love."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "App Development",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instagram Reels Clone (React JS)",
+        "category": "",
+        "image": "reels-clone.JPG",
+        "url": "https://ig-ree.web.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin-clone.JPG",
+        "url": "https://linkedin-clone-b90a5.web.app/"
+      },
+      {
+        "title": "100daysOfCode (React JS)",
+        "category": "",
+        "image": "100days.JPG",
+        "url": "https://djsreeraj.github.io/todo"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sreeraj is absolutely excellent, He is a quick learner. I would definitely recommend",
+        "user": "Pradeep.P"
+      },
+      {
+        "text": "Sreeraj is really one of the passionate Software Engineer I have met.",
+        "user": "Chalana. K"
+      }
+    ]
+  }
+}
