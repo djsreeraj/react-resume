@@ -4,6 +4,6 @@
 
 ### <a href="https://stoic-wescoff-dd448d.netlify.app/">LIVE DEMO</a>
 
-## Resume Starter Pack Description
+## Resume 
 
 This portfolio is made using React. The data on the portfolio is directly linked to a JSON file.
