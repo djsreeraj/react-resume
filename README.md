@@ -6,4 +6,4 @@
 
 ## Resume 
 
-This portfolio is made using React. The data on the portfolio is directly linked to a JSON file.
+This portfolio is made using React JS. Demo is Hosted in Netlify.
